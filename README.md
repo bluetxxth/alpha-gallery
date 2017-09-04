@@ -205,7 +205,7 @@ http://www.student.bth.se/~gani13/phpjavascript/alpha-gallery/index.php
 Versioning History
 -----------------------------------
 
-v1.0.0 (2017-09-2)
+v0.01(2017-09-2)
 
 * First release on Github.
 
